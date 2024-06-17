@@ -3,8 +3,9 @@
 <a href="https://lean-sat.org/opensource/" class="button icon calendar">Join Monthly Webinar</a>
 </p>
 
-<img align="both" src="https://github.com/BIRDSOpenSource/BIRDS3-ProceduresAndReports/assets/100206676/2d054074-dcd0-4ff8-a535-d025f32914fd" width="50%" height="50%">
-
+<div align="center">
+<img src="https://github.com/BIRDSOpenSource/BIRDS3-ProceduresAndReports/assets/100206676/2d054074-dcd0-4ff8-a535-d025f32914fd" width="50%" height="50%">
+</div>
 
 
 # BIRDS3-ProceduresAndReports
