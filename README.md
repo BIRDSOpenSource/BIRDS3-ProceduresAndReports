@@ -5,7 +5,7 @@
   </a>
 </div>
 
-<img  width="25%" src="https://github.com/BIRDSOpenSource/BIRDS3-ProceduresAndReports/assets/100206676/2d054074-dcd0-4ff8-a535-d025f32914fd"> <img width="50%" src="https://github.com/BIRDSOpenSource/BIRDS3-ProceduresAndReports/assets/100206676/c257e8cf-d65f-473c-98e1-21886804d913">
+<img  width="25%" src="https://github.com/BIRDSOpenSource/BIRDS3-ProceduresAndReports/assets/100206676/2d054074-dcd0-4ff8-a535-d025f32914fd"> <img width="25%" src="https://github.com/BIRDSOpenSource/BIRDS3-ProceduresAndReports/assets/100206676/c257e8cf-d65f-473c-98e1-21886804d913">
 
 # BIRDS3-ProceduresAndReports
  Several assembly and test procedures as well as their reports for the BIRDS3 Satellite
