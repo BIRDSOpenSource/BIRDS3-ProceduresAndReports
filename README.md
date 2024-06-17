@@ -4,7 +4,7 @@
 </p>
 
 <div align="center">
-<img src="https://github.com/BIRDSOpenSource/BIRDS3-ProceduresAndReports/assets/100206676/2d054074-dcd0-4ff8-a535-d025f32914fd" width="50%">
+<img  width="50%" src="https://github.com/BIRDSOpenSource/BIRDS3-ProceduresAndReports/assets/100206676/2d054074-dcd0-4ff8-a535-d025f32914fd">
 </div>
 
 
@@ -14,7 +14,7 @@
 
 ## About the BIRDS3 Program:
 
-![image](https://github.com/BIRDSOpenSource/BIRDS3-ProceduresAndReports/assets/100206676/c257e8cf-d65f-473c-98e1-21886804d913)
+<img width="50%" src="https://github.com/BIRDSOpenSource/BIRDS3-ProceduresAndReports/assets/100206676/c257e8cf-d65f-473c-98e1-21886804d913">
 
 The project was led by Kyushu Institute of Technology in Japan and involves students from Sri Lanka, Bhutan, Nepal and Japan.
 Satellite Names: NepaliSat-1 (Nepal), Raavana-1 (Sri Lanka) and Ugiusu (Japan)
