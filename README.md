@@ -3,11 +3,7 @@
 <a href="https://lean-sat.org/opensource/" class="button icon rss">Join Monthly Webinar</a>
 </p>
 
-<img style="float: left;" src="[whatever.jpg](https://github.com/BIRDSOpenSource/BIRDS3-ProceduresAndReports/assets/100206676/2d054074-dcd0-4ff8-a535-d025f32914fd)">
-
-<p align="center">
-  <img width="460" height="300" src="[https://picsum.photos/460/300](https://github.com/BIRDSOpenSource/BIRDS3-ProceduresAndReports/assets/100206676/2d054074-dcd0-4ff8-a535-d025f32914fd)">
-</p>
+<img align="center" src="[whatever.jpg](https://github.com/BIRDSOpenSource/BIRDS3-ProceduresAndReports/assets/100206676/2d054074-dcd0-4ff8-a535-d025f32914fd)">
 
 ![image](https://github.com/BIRDSOpenSource/BIRDS3-ProceduresAndReports/assets/100206676/2d054074-dcd0-4ff8-a535-d025f32914fd)
 
