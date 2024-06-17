@@ -4,7 +4,7 @@
 </p>
 
 <div align="center">
-<img  width="50%" src="https://github.com/BIRDSOpenSource/BIRDS3-ProceduresAndReports/assets/100206676/2d054074-dcd0-4ff8-a535-d025f32914fd">
+<img  width="25%" src="https://github.com/BIRDSOpenSource/BIRDS3-ProceduresAndReports/assets/100206676/2d054074-dcd0-4ff8-a535-d025f32914fd">
 </div>
 
 
