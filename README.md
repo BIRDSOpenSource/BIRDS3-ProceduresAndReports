@@ -1,11 +1,11 @@
 
 <p align="center">
-<a href="#" class="button icon rss">Join Monthly Webinar</a>
+<a href="https://lean-sat.org/opensource/" class="button icon rss">Join Monthly Webinar</a>
 </p>
 
-<p align="center">
+
 ![image](https://github.com/BIRDSOpenSource/BIRDS3-ProceduresAndReports/assets/100206676/2d054074-dcd0-4ff8-a535-d025f32914fd)
-</p>
+
 
 # BIRDS3-ProceduresAndReports
  Several assembly and test procedures as well as their reports for the BIRDS3 Satellite
@@ -27,6 +27,8 @@ CubeSat: 1U (10x10x10) cm3
 Weight: 1.13kg
 
 Launch Date: 17th April 2019
+
+BIRDS-3 has 4 main missions in total; LoRa Demonstration Mission (LDM), Imaging Mission (CAM), Attitude Determination and Control Mission (ADCS) and Software Configurable Backplane Mission (BPB) 
 
 ## Organisation structure
 
