@@ -1,11 +1,16 @@
 
-![image](https://github.com/BIRDSOpenSource/BIRDS3-ProceduresAndReports/assets/100206676/905bedc1-d3e0-4737-adb7-3916148688ba)
+
+<a href="#" class="button icon rss">Join Monthly Webinar</a>
+
+![image](https://github.com/BIRDSOpenSource/BIRDS3-ProceduresAndReports/assets/100206676/2d054074-dcd0-4ff8-a535-d025f32914fd)
 
 # BIRDS3-ProceduresAndReports
  Several assembly and test procedures as well as their reports for the BIRDS3 Satellite
 
 
 ## About the BIRDS3 Program:
+
+![image](https://github.com/BIRDSOpenSource/BIRDS3-ProceduresAndReports/assets/100206676/c257e8cf-d65f-473c-98e1-21886804d913)
 
 
 ## Organisation structure
