@@ -30,6 +30,13 @@ BIRDS-3 has 4 main missions in total; LoRa Demonstration Mission (LDM), Imaging 
 
 ## Organisation structure
 
+```bash
+├── .gitattributes
+├── EM Test Reports
+├── FM Test Reports
+├── LICENSE
+└── README.md
+```
 
 ## Features
 
