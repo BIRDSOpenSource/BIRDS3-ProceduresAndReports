@@ -1,8 +1,11 @@
 
-
+<p align="center">
 <a href="#" class="button icon rss">Join Monthly Webinar</a>
+</p>
 
+<p align="center">
 ![image](https://github.com/BIRDSOpenSource/BIRDS3-ProceduresAndReports/assets/100206676/2d054074-dcd0-4ff8-a535-d025f32914fd)
+</p>
 
 # BIRDS3-ProceduresAndReports
  Several assembly and test procedures as well as their reports for the BIRDS3 Satellite
@@ -12,6 +15,18 @@
 
 ![image](https://github.com/BIRDSOpenSource/BIRDS3-ProceduresAndReports/assets/100206676/c257e8cf-d65f-473c-98e1-21886804d913)
 
+The project was led by Kyushu Institute of Technology in Japan and involves students from Sri Lanka, Bhutan, Nepal and Japan.
+Satellite Names: NepaliSat-1 (Nepal), Raavana-1 (Sri Lanka) and Ugiusu (Japan)
+
+Stakeholders: Nepal Academy of Science and Technology (NAST) for Nepal, Arthur C Clarke Institute for Modern Technologies (ACCIMT) for Sri Lanka, and Kyushu Institute of Technology (Kyutech) for Japan.
+
+Project duration: 2018-2020
+
+CubeSat: 1U (10x10x10) cm3
+
+Weight: 1.13kg
+
+Launch Date: 17th April 2019
 
 ## Organisation structure
 
