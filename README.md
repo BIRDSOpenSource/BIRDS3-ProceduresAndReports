@@ -1,20 +1,17 @@
 
-<p align="center">
-<a href="https://lean-sat.org/opensource/" class="button icon calendar">Join Monthly Webinar</a>
-</p>
-
 <div align="center">
-<img  width="25%" src="https://github.com/BIRDSOpenSource/BIRDS3-ProceduresAndReports/assets/100206676/2d054074-dcd0-4ff8-a535-d025f32914fd">
+  <a href="https://lean-sat.org/opensource/">
+  <img alt="Join the monthly community webinars" src="https://img.shields.io/badge/join_our-monthly_webinars-orange" />
+  </a>
 </div>
 
+<img  width="25%" src="https://github.com/BIRDSOpenSource/BIRDS3-ProceduresAndReports/assets/100206676/2d054074-dcd0-4ff8-a535-d025f32914fd"> <img width="50%" src="https://github.com/BIRDSOpenSource/BIRDS3-ProceduresAndReports/assets/100206676/c257e8cf-d65f-473c-98e1-21886804d913">
 
 # BIRDS3-ProceduresAndReports
  Several assembly and test procedures as well as their reports for the BIRDS3 Satellite
 
 
 ## About the BIRDS3 Program:
-
-<img width="50%" src="https://github.com/BIRDSOpenSource/BIRDS3-ProceduresAndReports/assets/100206676/c257e8cf-d65f-473c-98e1-21886804d913">
 
 The project was led by Kyushu Institute of Technology in Japan and involves students from Sri Lanka, Bhutan, Nepal and Japan.
 Satellite Names: NepaliSat-1 (Nepal), Raavana-1 (Sri Lanka) and Ugiusu (Japan)
